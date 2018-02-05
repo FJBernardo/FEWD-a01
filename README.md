@@ -12,7 +12,7 @@ As a musician I am able to sing and play some musical instruments, like:
 * Keyboard
 * Drummer
 
-You can check my videos on my [Youtube Channnel (https://www.youtube.com/FagnerBernard)] and my [Instagram Account(https://www.instagram.com/fagnerbernardo/)]
+You can check my videos on my [Youtube Channnel](https://www.youtube.com/FagnerBernard) and my [Instagram Account](https://www.instagram.com/fagnerbernardo/)
 
 This is my Guitar! 
 
